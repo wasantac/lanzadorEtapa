@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AplicacionGestionCine
+comment1.params=nombre\ direccion\ capacidad
+comment1.target=AplicacionGestionCine(java.lang.String,\ java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ AplicacionGestionCine\r\n
+comment2.params=p
+comment2.target=void\ nuevaPelicula(Pelicula)
+comment3.params=plist
+comment3.target=void\ nuevaPelicula(java.util.List)
+comment4.params=
+comment4.target=void\ visualizarCartelera()
+comment5.params=sesion
+comment5.target=boolean\ nuevaSesion(Sesion)
+comment6.params=titulo
+comment6.target=void\ mostrarSesiones(java.lang.String)
+numComments=7

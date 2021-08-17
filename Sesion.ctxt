@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Sesion
+comment1.params=butacas
+comment1.target=Sesion(int)
+comment10.params=
+comment10.target=int\ getButacasDisponibles()
+comment11.params=vendidas
+comment11.target=void\ reducirDisponibilidad(int)
+comment12.params=
+comment12.target=java.lang.String\ mostrarSesion()
+comment2.params=fecha\ hora\ pelicula
+comment2.target=Sesion(java.time.LocalDate,\ java.time.LocalTime,\ Pelicula)
+comment3.params=pelicula
+comment3.target=void\ setPelicula(Pelicula)
+comment4.params=hora
+comment4.target=void\ setHora(java.time.LocalTime)
+comment5.params=fecha
+comment5.target=void\ setFecha(java.time.LocalDate)
+comment6.params=
+comment6.target=Pelicula\ getPelicula()
+comment7.params=
+comment7.target=java.time.LocalDate\ getFecha()
+comment8.params=
+comment8.target=java.time.LocalTime\ getHora()
+comment9.params=butacas
+comment9.target=void\ setCapacidad(int)
+numComments=13

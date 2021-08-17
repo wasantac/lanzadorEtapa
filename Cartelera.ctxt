@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Cartelera
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Cartelera\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Cartelera()
+comment2.params=plist
+comment2.target=Cartelera(java.util.List)
+comment3.params=p
+comment3.target=boolean\ nuevaPelicula(Pelicula)
+comment4.params=plist
+comment4.target=boolean\ nuevaPelicula(java.util.List)
+comment5.params=titulo
+comment5.target=boolean\ eliminarPelicula(java.lang.String)
+comment6.params=titulo
+comment6.target=boolean\ estaPelicula(java.lang.String)
+comment7.params=p
+comment7.target=boolean\ estaPelicula(Pelicula)
+comment8.params=
+comment8.target=java.lang.String\ mostrarCartelera()
+numComments=9

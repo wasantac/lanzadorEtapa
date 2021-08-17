@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PeliculaVO
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PeliculaVO\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=titulo
+comment1.target=PeliculaVO(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PeliculaVO\r\n
+comment2.params=
+comment2.target=PeliculaVO()
+comment3.params=idioma
+comment3.target=void\ setIdioma(TIdioma)
+comment4.params=
+comment4.target=TIdioma\ getIdioma()
+numComments=5
